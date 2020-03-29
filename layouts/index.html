@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            <h1>{{ .Site.Title }}</h1>
+            <img src="https://avatars0.githubusercontent.com/u/1494003?s=400&u=ed3e691a3693dc0edb4d39a1fbef58b923c32cf5&v=4" alt="Gopher Me" position="center" style="border-radius: 8px;">
+            {{- with .Site.Params.homeSubtitle }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+    </main>
+{{ end }}
