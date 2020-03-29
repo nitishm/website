@@ -1,5 +1,5 @@
 +++
-title = "OSS Projects"
+title = "Open Source"
 date = 2020-03-22T02:13:50Z
 author = "Nitish Malhotra"
 slug = "projects"

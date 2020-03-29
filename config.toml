@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://letsgopherit.com/"
 title   = "Nitish Malhotra"
 subtitle = "Technology Architect - Office of the CTO @ Affirmed Networks"
 
@@ -13,7 +13,7 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
-# disqusShortname = ""
+disqusShortname = "letsgopherit"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -171,3 +171,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"
