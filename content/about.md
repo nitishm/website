@@ -18,7 +18,7 @@ slug = "about"
 
 ### What I do
 
-- *Title Pending* @ [Microsoft](www.microsoft.com) - [(*Acquisition*)](https://blogs.microsoft.com/blog/2020/03/26/microsoft-announces-agreement-to-acquire-affirmed-networks-to-deliver-new-opportunities-for-a-global-5g-ecosystem/) [*2020 - present*]
+- Senior Software Engineer [Azure For Operators] @ [Microsoft](www.microsoft.com) [*2020 - present*]
 - Technology Architect - Office of the CTO @ [Affirmed Networks](https://www.affirmednetworks.com/) [*2020 - present*]
 - Senior Principal Software Engineer @ [Affirmed Networks](https://www.affirmednetworks.com/) *[2019 - 2020]*
 - Technical Lead @ [HERE Technologies](https://www.here.com/) *[2018 - 2019]*
