@@ -114,6 +114,8 @@ disableHugoGeneratorInject = false
   defaultTheme = "dark"
   themeColor = "#252627"
 
+  favicon = "/img/favicon.ico"  
+
   # Colors for favicons
   [params.favicon.color]
     mask = "#252627"
