@@ -650,3 +650,5 @@ To send a message over the listening kafka topic, use the `producer.go` program 
 ---
 
 *Originally published on [medium](https://medium.com/codezillas/building-a-microservice-framework-in-golang-dd3c9530dff9)*
+
+{{ template "_internal/disqus.html" . }}

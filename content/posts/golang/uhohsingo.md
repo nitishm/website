@@ -278,3 +278,5 @@ I hope this post would help someone out there. I came up with the idea to write 
 > PS : If you come from the wonderful world of pointers in C/C++ … Honestly, you have all made (and learned from) this mistake already ;)!
 
 *Orginally published on [medium](https://medium.com/codezillas/uh-ohs-in-go-slice-of-pointers-c0a30669feee)*
+
+{{ template "_internal/disqus.html" . }}

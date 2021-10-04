@@ -162,3 +162,5 @@ kubectl logs -f foo-app-1 -c istio-proxy | engarde — use-istio | jq -c ‘sele
 ```
 
 *Originally published on [medium](https://medium.com/@nitishmalhotra/engarde-parse-envoy-and-istio-proxy-logs-like-a-champ-faec31c563e7)*
+
+{{ template "_internal/disqus.html" . }}

@@ -21,3 +21,5 @@ If you’re administering clusters for multiple tenants, attend this talk to lea
 - hide tenant application topology when communicating with external entities
 - assign per-tenant identities (SPIFFE) for use with transport authentication (mTLS), authorization (OAuth2) & origin authentication (JWT)
 - share mesh control plane resources across tenants
+
+{{ template "_internal/disqus.html" . }}

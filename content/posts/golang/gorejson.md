@@ -327,3 +327,5 @@ I would also like to give a shout out to [Shivam Rathore](https://github.com/Shi
 ---
 
 *Originally published on [medium](https://itnext.io/storing-go-structs-in-redis-using-rejson-dab7f8fc0053)*
+
+{{ template "_internal/disqus.html" . }}
