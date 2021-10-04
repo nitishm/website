@@ -13,7 +13,6 @@ slug = "about"
 :sailboat:[Istio](https://istio.io/)
 :snowflake::coffee: [Iced Coffee](https://www.dunkindonuts.com/en)
 
-
 ---
 
 ### What I do
